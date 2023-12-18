@@ -103,6 +103,6 @@ Contributions are welcome! Here's how you can get involved:
 
 ## Production Links
 
-[cyclic deployed Backend](https://artsphere.onrender.com/)
+[Backend Deployment](https://artsphere.onrender.com/)
 
-[vercel deployed frontend](https://artsphere-eight.vercel.app/)
+[Frontend Deployment](https://artsphere-eight.vercel.app/)
